@@ -123,7 +123,7 @@ function Hero() {
       <div className="hero-snow" />
       <div className="hero-content">
         <div className="eyebrow light"><span /> Independent Tahoe ski guide</div>
-        <h1>Best Ski Resorts<br />in Lake Tahoe</h1>
+        <h1>Top Resorts<br />in Tahoe</h1>
         <div className="hero-footer">
           <p>
             Five mountains. One ranking. A simple guide to choosing where to ski next.
